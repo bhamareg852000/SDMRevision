@@ -1,0 +1,12 @@
+It is present in org.hibernate package.
+• A Query instance is obtained by calling session.createQuery().
+• This interface exposes some extra functionality beyond that provided by Session.iterate() and Session.find()
+• A particular page of the result set may be selected by calling setMaxResults(), setFirstResult().
+• Named query parameters may be used.
+• Query query = session.createQuery();
+Criteria
+• Criteria is an interface
+• It is present in org.hibernate package
+• Criteria is a simplified API for retrieving entities by composing Criterion objects.
+• The Session is a factory for Criteria.
+• Criterion instances are usually obtained via the factory methods on Restriction
