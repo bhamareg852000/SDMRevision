@@ -1,0 +1,6 @@
+SDM (Software Development Methodologies) is a subject commonly taught in software engineering, computer science, and related courses, including CDAC. It focuses on the processes, principles, and best practices for developing software in a structured and efficient way.
+
+Here's an overview of SDM:
+
+1. What is SDM?
+Software Development Methodologies are frameworks or processes used to structure, plan, and control the development of software systems. They define the steps, tools, and roles required to deliver high-quality software.
